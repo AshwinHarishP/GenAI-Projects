@@ -24,14 +24,17 @@ cd job-scraper
 ```
 
 ### 2. Create a virtual environment
+```python
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
-
+```
 
 ### 3. Install dependencies
+```python
 pip install -r requirements.txt
-
+```
 ### 4. streamlit run app.py 
+```python
 pip install -r requirements.txt
-
+```
 
